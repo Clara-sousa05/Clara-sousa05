@@ -2,8 +2,8 @@
 
 Eu sou <strong>Clara</strong>, <strong>Estudante de ADS no SENAC</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 💬 Pergunte-me sobre: <strong>Teatro, cinema e literatura</strong>
 - 📣 Nós podemos falar em: <strong>Inglês e português</strong>
 
 <div align="center">
